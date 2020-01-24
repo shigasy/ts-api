@@ -19,7 +19,7 @@ const tasks: Task[] = [
 ]
 
 app.get("/", (req, res) => {
-    res.send("Hello, VS Code!!!!!")
+    res.send("Hello, VS Code!!!")
 })
 
 app.get("/tasks", (req, res) => {
