@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/MyPoZi/ts-api#readme",
   "dependencies": {
+    "@types/express": "^4.17.2",
+    "express": "^4.17.1",
     "typescript": "^3.7.5"
   }
 }
