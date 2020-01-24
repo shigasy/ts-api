@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MyPoZi/ts-api/issues"
   },
-  "homepage": "https://github.com/MyPoZi/ts-api#readme"
+  "homepage": "https://github.com/MyPoZi/ts-api#readme",
+  "dependencies": {
+    "typescript": "^3.7.5"
+  }
 }
